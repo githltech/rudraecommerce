@@ -52,7 +52,7 @@ const Footer = () => {
 
       {/* Footer Bottom */}
       <div className="container mx-auto text-center mt-10 border-t border-gray-200 pt-5">
-        <p>&copy; 2024 E-Shop. All Rights Reserved.</p>
+        <p>&copy; 2024 E-Commerce. All Rights Reserved.</p>
         <div className="flex justify-center space-x-4 mt-4">
           <a href="/facebook" className="hover:text-gray-300">Facebook</a>
           <a href="/twitter" className="hover:text-gray-300">Twitter</a>
